@@ -1,23 +1,5 @@
 # Temeljni zahtjevi
 
-### 8. Temeljni zahtjevi {#temeljni-zahtjevi}
-
-Svaka građevina, ovisno o svojoj namjeni, mora biti projektirana i izgrađena na način da tijekom svog trajanja ispunjava temeljne zahtjeve za građevinu te druge zahtjeve, odnosno uvjete propisane ovim Zakonom i posebnim propisima koji utječu na ispunjavanje temeljnog zahtjeva za građevinu ili na drugi način uvjetuju gradnju građevina ili utječu na građevne i druge proizvode koji se ugrađuju u građevinu.
-
-1. **mehanička otpornost i stabilnost**
-2. **sigurnost u slučaju požara**
-3. **higijena, zdravlje i okoliš**
-4. **sigurnost i pristupačnost tijekom uporabe**
-5. **zaštita od buke**
-6. **gospodarenje energijom i očuvanje topline**
-7. **održiva upotreba prirodnih izvora**
-
-Dokazuju se u glavnom projektu.
-
-### 9. Temeljni sigurnosni zahtjevi
-
-To su samo oni temeljni zahtjevi koji se odnose na sigurnost same građevine i njenih korisnika. Mehanička otpornost i stabilnost, sigurnost u slučaju požara, higijena, zdravlje i okoliš, sigurnost i pristupačnost tijekom uporabe.
-
 ### 10. Mehanička otpornost i stabilnost
 
 Građevina mora biti projektirana i izgrađena tako da opterećenja koja na nju mogu djelovati tijekom izgradnje i uporabe ne mogu dovesti do:
@@ -61,7 +43,7 @@ Građevine moraju biti projektirane, izgrađene i uklonjene tako da je uporaba p
 * trajnost građevine,
 * uporabu okolišu prihvatljivih sirovina i sekundarnih materijala u građevinama.
 
-### 16. Odstupanje od temeljnih zahtjeva + dopuštena odstupanja u građenju
+### 16. Odstupanje od temeljnih zahtjeva _+ dopuštena odstupanja u građenju_
 
 Odstupanje od temeljnih bitnih zahtjeva za građevinu:
 
@@ -74,8 +56,10 @@ _Suglasnost Ministarstvo izdaje tek po prethodno pribavljenom mišljenju minista
 
 Suglasnosti za navedena odstupanja vrijede ako u svrhu ispunjavanja temeljnog bitnog zahtjeva za građevinu nije moguće izvesti odgovarajuće tehničko rješenje ili je mogućnost izvođenja rješenja takva da bi uložena vrijednost bila u bitnom nerazmjeru u odnosu na korist, te ukoliko se određenim postupkom, zahvatom ili mjerom može uvjetovati na odgovarajući način djelomičnog nadomještanja cjelovitog tehničkog rješenja.
 
+
+
 #### Dopuštena odstupanja u građenju:
 
-_Prilikom građenja građevine dopušteno je odstupanje u odnosu na glavni projekt sukladno pravilima struke ako se time ne utječe na ispunjavanje temeljnih zahtjeva za građevinu i ne mijenja usklađenost građevine s utvrđenim lokacijskim uvjetima. \(dopušteno odstupanje od 3%, odnosno ukupno 30 cm, brisano izmjenama i dopunama ZOG, novim zakonom dana veća sloboda pri interpretaciji zakona\)_    
+_Prilikom građenja građevine dopušteno je odstupanje u odnosu na glavni projekt sukladno pravilima struke ako se time ne utječe na ispunjavanje temeljnih zahtjeva za građevinu i ne mijenja usklađenost građevine s utvrđenim lokacijskim uvjetima. \(dopušteno odstupanje od 3%, odnosno ukupno 30 cm, **brisano** izmjenama i dopunama ZOG, **novim zakonom dana veća sloboda pri interpretaciji** zakona\)_    
 
 

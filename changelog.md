@@ -1,20 +1,8 @@
 # Changelog
 
-## 15.0.0 - 2042-12-03
+## 0.0.1 - 2018-09-13
 
-### Fixed
-
-* Removed humans, they weren't doing fine with animals.
-
-### Changed
-
-* Animals are now super cute, all of them.
-
-## 14.0.0 - 2042-10-06
-
-### Added
-
-* Introduced animals into the world, we believe they're going to be a neat addition.
+* Otvoren Github repozitorij i copy-pastani inicijalni autori i dio teksta - sve probno kao dokaz izvedivosti
 
 
 
