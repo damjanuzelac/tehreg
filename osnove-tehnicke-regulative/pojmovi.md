@@ -48,7 +48,8 @@ Zgrada, ovisno o skupini u koju je razvrstana, mora u pogledu vanjskog izgleda i
 * zgrada 2. skupine u roku od 7 godina
 * zgrada 3. skupine u roku od 5 godina 
 
-Rokovi počinju teći od dana prijave početka građenja i ne odnose se na zgrade koje su pojedinačno zaštićeno kulturno dobro. Izmjena i/ili dopuna građevinske dozvole nije od utjecaja na propisane rokove.
+Rokovi počinju teći od dana prijave početka građenja i ne odnose se na zgrade koje su pojedinačno zaštićeno kulturno dobro. Izmjena i/ili dopuna građevinske dozvole nije od utjecaja na propisane rokove
+.
 
 ### 8. Temeljni zahtjevi {#temeljni-zahtjevi}
 
