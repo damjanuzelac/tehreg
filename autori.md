@@ -1,5 +1,9 @@
 # Izvorni autori
 
+## Mihić skripta – nadopuna Primorac, Gospočić, Garma Bugarić, Poljančić, Lešković, Dimitrijević
+
+
+
 #### **Primorac Ivana –** **NADOPUNA 03.10.2015.**
 
 Nadopunjena je skripta kolege Mihića sa izmjenama jer se u međuvremenu promijenio pravilnik o sigurnosnim znakovima \(8,2015\), pravilnik o otp. Na požar, PGP se više ne koristi, zakon o inž.poslovima \(7/2015\) itd.

@@ -9,4 +9,6 @@
 
 * [Definicije pojmova](osnove-tehnicke-regulative/untitled.md)
 * [Temeljni zahtjevi](osnove-tehnicke-regulative/temeljni-zahtjevi.md)
+* [Energetsko svojstvo zgrade](osnove-tehnicke-regulative/energetsko-svojstvo-zgrade.md)
+* [Sudionici u gradnji](osnove-tehnicke-regulative/sudionici-u-gradnji.md)
 
