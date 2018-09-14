@@ -62,4 +62,4 @@ Suglasnosti za navedena odstupanja vrijede ako u svrhu ispunjavanja temeljnog bi
 
 _Prilikom građenja građevine dopušteno je odstupanje u odnosu na glavni projekt sukladno pravilima struke ako se time ne utječe na ispunjavanje temeljnih zahtjeva za građevinu i ne mijenja usklađenost građevine s utvrđenim lokacijskim uvjetima. \(dopušteno odstupanje od 3%, odnosno ukupno 30 cm, **brisano** izmjenama i dopunama ZOG, **novim zakonom dana veća sloboda pri interpretaciji** zakona\)_    
 
-### GitHub -- GitBook sync test
+

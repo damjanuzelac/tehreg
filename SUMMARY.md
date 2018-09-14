@@ -4,6 +4,7 @@
 * [Uvod](uvod.md)
 * [Izvorni autori](autori.md)
 * [Changelog](changelog.md)
+* [Prednosti i mane](prednosti-i-mane.md)
 
 ## Osnove tehničke regulative
 

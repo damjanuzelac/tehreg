@@ -4,7 +4,7 @@
 
 
 
-#### **Primorac Ivana –** **NADOPUNA 03.10.2015.**
+### **Primorac Ivana –** **NADOPUNA 03.10.2015.**
 
 Nadopunjena je skripta kolege Mihića sa izmjenama jer se u međuvremenu promijenio pravilnik o sigurnosnim znakovima \(8,2015\), pravilnik o otp. Na požar, PGP se više ne koristi, zakon o inž.poslovima \(7/2015\) itd.
 
@@ -14,7 +14,7 @@ Nadam se da će nekome pomoći. Sretno svima! :\)
 
 
 
-#### **Gospočić Renato –** **NADOPUNA 26.11.2015.**
+### **Gospočić Renato –** **NADOPUNA 26.11.2015.**
 
 Nastavio sam tamo gdje je kolegica Primorac stala.
 
@@ -37,21 +37,25 @@ Dakle:
 **3.** **„sitne“ dopune** možete pronaći pod rednim brojevima:  
 - **8**\(8\), **16**\(16\), **18**\(18\), **33**\(32\), **37**\(36\), **40**\(39\), **101**\(99\), **181**\(174\), **279**\(259\), **287**\(266\), **293**\(272\)
 
-#### **Nikolina Garma Bugarić –** **NADOPUNA 17.03.2016.**
+### **Nikolina Garma Bugarić –** **NADOPUNA 17.03.2016.**
 
 Nastavila sam tamo gdje su kolege stale.
 
 Nadopuna u skladu s novim pitanjima sa grupe i novim pravilnicima, te poneke sitne dopune \(ISPU, e-dozvola, pravilnici o radnoj opremi, radnom okolišu i sl. \). Nova pitanja označena su crvenim slovima.
 
-**Vesna Poljančić – NADOPUNA 14.06.2016.**
+### **Vesna Poljančić – NADOPUNA 14.06.2016.**
 
 Nadopuna se odnosi na ažuriranje skripte prema Zakonima i Pravilnicima koji su trenutno na snazi. U području zaštite na radu dodani su pravilnici iz kojih su izvađeni odgovori na pitanja iz razloga što je na ispitu traženo da se to definira kod odgovora. **Nova pitanja, kao i nadopune su označene plavom bojom.**
 
-**Damir Lešković - NADOPUNA 02.03.2017.**
+### **Damir Lešković – NADOPUNA 02.03.2017.**
 
 **Izmjene** : ubačeni novi tehnički propisi za građevne konstrukcije, ažurirana i sama definicija tehničkog propisa, ažuriran ugovor o građenju, sustavi ocjenjivanja sukladnosti, objašnjen detaljnije primjer klase betona. Skripta je pročešljana i sadržajno usklađena sa većinom pravilnika i dodatno „ušminkana“. Pitanja koja se češće pojavljuju u zadnjih par mjeseci označena zelenom bojom.
 
-**Kosta Dimitrijević – NADOPUNA 08.03.2017.**
+### **Kosta Dimitrijević – NADOPUNA 08.03.2017.**
 
 Izvršeno usklađivanje skripte sa „Zakonom o izmjenama i dopunama zakona o gradnji“ koji je za sada izglasan u Saboru, te se čeka izdavanja u Narodnim novinama, čime stupa na snagu. „Zakon o izmjenama i dopunama zakona o prostornom uređenju“ u ovom trenu nije prošao Saborsku proceduru, pa usklađivanje s njim ostavljam nekome drugom. Pitanja koja sam mijenjao označena su smeđom bojom. Isprike kolegici Poljančić jer sam ukinio njenu plavu boju u dijelu Osnova teh. regulative, no zajedno sa mojim izmjenama i još jednom dodatnom bojom, bi bilo prešareno.
+
+### Damjan Uzelac **– PRILAGODBA rujan 2018**
+
+Konverzija .docx skripta u .md \(markdown\) format, prilagodba za GitBook platformu, upload i  sinhronizacija s GitHubom.
 
