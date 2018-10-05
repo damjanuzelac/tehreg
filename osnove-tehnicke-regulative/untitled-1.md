@@ -256,3 +256,31 @@ Prilikom uklanjanja drugih građevina ili njihovih dijelova **stručni nadzor** 
 
 Projekt uklanjanja građevine **podliježe kontroli projekata u odnosu na mehaničku otpornost i stabilnost** ako način uklanjanja i/ili uklanjanje građevine utječe na stabilnost okolnog i drugog zemljišta i/ili ispunjavanje temeljnih zahtjeva drugih građevina.
 
+### 49. Kontrola projekata
+
+**Kontrola glavnog projekta, izvedbenog projekta, tipskog projekta i projekta uklanjanja građevine**, ovisno o značajkama građevine, odnosno predgotovljenog dijela građevine, **mora se provesti s obzirom na mehaničku otpornost i stabilnost.**
+
+Revident je dužan nakon što obavi kontrolu projekta sastaviti o tome pisano izvješće i ovjeriti dijelove projekta na propisan način.
+
+U izvješću o obavljenoj kontroli revident može zahtijevati da obavi pregled radova u određenoj fazi građenja. U tom slučaju investitor je dužan revidentu pravodobno omogućiti pregled radova. Revident potvrđuje provedbu pregleda radova upisom u građevinski dnevnik.
+
+Sadržaj, način i opseg obavljanja kontrole projekta, način i značenje ovjere kontroliranog projekta od strane revidenta te popis građevina, odnosno radova za koje je obvezatna kontrola projekta i način verifikacije podataka značajnih za kontrolu tih građevina, odnosno radova propisuje ministar pravilnikom.
+
+### 50. Postoje li revidenti strojarskih projekata \(glavnih i izvedbenih\) i projekata izvedenog stanja?
+
+Odredbama _članka 94. Zakona o gradnji \(NN 153/13\)_, propisano je da se kontrola glavnog projekta, tipskog projekta i projekta uklanjanja građevine, ovisno o značajkama građevine, odnosno predgotovljenog dijela građevine, mora provesti s obzirom na mehaničku otpornost i stabilnost. **Ne postoji za strojarske i za izvedbene.**
+
+### 51. Nostrifikacija 🚩
+
+**Glavni projekt i izvedbeni projekt izrađen prema stranim propisima** smatra se projektom izrađenim prema Zakonu o gradnji ako je **provedeno utvrđivanje njegove usklađenosti s hrvatskim propisima i pravilima struke** \(nostrifikacija\).
+
+**Glavni projekt i izvedbeni projekt**, odnosno njihovi dijelovi **moraju biti prevedeni na hrvatski jezik prije nostrifikacije**. Uz prijevod na hrvatski jezik projekt može zadržati izvorni tekst na stranom jeziku.
+
+Iznimno, dijelovi projekta koji uglavnom sadrže brojčane podatke \(informatički ispisi statičkog proračuna i sl.\) ne moraju biti prevedeni na hrvatski jezik.
+
+**Nostrifikaciju projekta** u okviru zadaća svoje struke **provodi osoba koja prema posebnom zakonu ima pravo uporabe strukovnog naziva ovlašteni arhitekt ili ovlašteni inženjer**, odnosno **pravna osoba koja ima zaposlenu osobu koja ima pravo uporabe tog strukovnog naziva**.
+
+**Osoba koja obavi nostrifikaciju** dužna je o tome na propisani način **sastaviti pisano izvješće, ovjeriti projekt i dati izjavu**.
+
+U slučaju da projektu koji se nostrificira **nedostaju propisani dijelovi**, **osoba koja provodi nostrifikaciju može izraditi te dijelove projekta.**
+
